@@ -22,7 +22,7 @@ router = APIRouter(
             tags=['']
          )
 
-AIFORTHAI_APIKEY = ''
+AIFORTHAI_APIKEY = 'Kdx3uanDJBM1pl4kIOMKOxsfGs1sqg0V'
 LINE_CHANNEL_ACCESS_TOKEN = ''
 LINE_CHANNEL_SECRET = ''
 
